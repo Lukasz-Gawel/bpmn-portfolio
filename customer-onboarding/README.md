@@ -4,8 +4,6 @@
 This project models a complex, end-to-end recruitment lifecycle. It focuses on the high-interaction "ping-pong" communication between a Candidate and Company X. The model maps every stage from the initial CV submission to the final job offer or technical rejection.
 
 ## 🖼️ Diagram
-![BPMN Diagram](./path-to-your-image.png)
-> *Tip: Always export your diagram as a **PNG** or **SVG** and embed it so people can see it without opening specialized software.*
 
 ## ⚙️ Process Logic
 The process is divided into three main operational phases:
