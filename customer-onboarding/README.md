@@ -21,7 +21,7 @@ The process is divided into three main operational phases:
 - **HR Department (Lane)**: Acts as the communication hub, managing scheduling, reminders, and offer preparation.
 - **Technical Manager (Lane)**: Owns the technical evaluation, interview performance, and final hiring recommendation.
 
-##💡 Technical Highlights
+## 💡 Technical Highlights
 1. **Message Exchange**: Extensive use of Message Flows (dashed lines) to represent cross-pool communication (emails/notifications).
 2. **Event-Driven Logic**: Uses Event-based Gateways to wait for candidate responses or interview results.
 3. **Exception & Timeout Management**: Includes Intermediate Timer Events to handle cases where candidates do not respond within 3 days.
